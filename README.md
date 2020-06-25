@@ -1,3 +1,5 @@
+This project for learning purpose. Create simple **chat layout** with name and comments. Also approval for posting comment. The app can't be use for chat.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
